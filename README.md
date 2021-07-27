@@ -18,7 +18,7 @@ This project was carried out to complete the final stage of the [Rakamin Academy
 
 ## [Image Classification of Rocks, Papers, and Scissors](https://github.com/denevawidya/RPS_Image_Classification)
 
-The purpose of this project is to classify and predict the hand images of Rock, Paper, or Scissors. This using artificial neural network with TensorFlowThis program.
+The purpose of this project is to classify and predict the hand images of Rock, Paper, or Scissors. This using artificial neural network with TensorFlow.
 
 <hr>
 
