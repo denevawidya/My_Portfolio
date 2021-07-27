@@ -14,13 +14,19 @@ This Github repository containing data science projects completed by me for self
 
 This project was carried out to complete the final stage of the [Rakamin Academy Data Science Bootcamp](rakamin.com). The purpose is to predict the criteria of customer for accepting the next marketing campaign, using Supervised Learning models. All stages of work are completed with Guido's Team (6 people). 
 
+<hr>
+
 ## [Image Classification of Rocks, Papers, and Scissors](https://github.com/denevawidya/RPS_Image_Classification)
 
 The purpose of this project is to classify and predict the hand images of Rock, Paper, or Scissors. This using artificial neural network with TensorFlowThis program.
 
+<hr>
+
 ## [Image Classification of Vehicles and Non-Vehicles](https://github.com/denevawidya/Vehicles_Image_Classification)
 
 The purpose of this project is to develop a machine learning models for image classification of Vehicles and Non-Vehicles, after that converting the model into a TF-Lite file format that can be embedded in Android and iOS.
+
+<hr>
 
 ## [Time Series Models with LSTM](https://github.com/denevawidya/Time_Series_Model)
 
